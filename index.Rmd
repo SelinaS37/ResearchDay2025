@@ -1,5 +1,5 @@
 ---
-title: "University of Toronto Statistics Graduate Student Research Day 2022"
+title: "University of Toronto Statistics Graduate Student Research Day 2025"
 site: distill::distill_website
 ---
 
